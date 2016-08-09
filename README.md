@@ -1,4 +1,4 @@
-# go-pprof
+# go-pprofessor
 
 A simple package to run [net/http/pprof](https://golang.org/pkg/net/http/pprof/).
 
