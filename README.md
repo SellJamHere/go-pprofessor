@@ -9,3 +9,5 @@ This package runs an http server at the specified port, automatically adding the
 ```
 pprofessor.Serve(":6060")
 ```
+
+Then visit `http://localhost:6060/debug/pprof/`
